@@ -1,134 +1,134 @@
 .foreground\/black {
-	color: var(--color-black);
+	color: var(--funco-color-black);
 }
 
 .foreground\/dark-gray {
-	color: var(--color-dark-gray);
+	color: var(--funco-color-dark-gray);
 }
 
 .foreground\/gray {
-	color: var(--color-gray);
+	color: var(--funco-color-gray);
 }
 
 .foreground\/light-gray {
-	color: var(--color-light-gray);
+	color: var(--funco-color-light-gray);
 }
 
 .foreground\/white {
-	color: var(--color-white);
+	color: var(--funco-color-white);
 }
 
 @media (--mq-xs) {
 	.foreground\/black\@xs {
-		color: var(--color-black);
+		color: var(--funco-color-black);
 	}
 
 	.foreground\/dark-gray\@xs {
-		color: var(--color-dark-gray);
+		color: var(--funco-color-dark-gray);
 	}
 
 	.foreground\/gray\@xs {
-		color: var(--color-gray);
+		color: var(--funco-color-gray);
 	}
 
 	.foreground\/light-gray\@xs {
-		color: var(--color-light-gray);
+		color: var(--funco-color-light-gray);
 	}
 
 	.foreground\/white\@xs {
-		color: var(--color-white);
+		color: var(--funco-color-white);
 	}
 
 }
 
 @media (--mq-sm) {
 	.foreground\/black\@sm {
-		color: var(--color-black);
+		color: var(--funco-color-black);
 	}
 
 	.foreground\/dark-gray\@sm {
-		color: var(--color-dark-gray);
+		color: var(--funco-color-dark-gray);
 	}
 
 	.foreground\/gray\@sm {
-		color: var(--color-gray);
+		color: var(--funco-color-gray);
 	}
 
 	.foreground\/light-gray\@sm {
-		color: var(--color-light-gray);
+		color: var(--funco-color-light-gray);
 	}
 
 	.foreground\/white\@sm {
-		color: var(--color-white);
+		color: var(--funco-color-white);
 	}
 
 }
 
 @media (--mq-md) {
 	.foreground\/black\@md {
-		color: var(--color-black);
+		color: var(--funco-color-black);
 	}
 
 	.foreground\/dark-gray\@md {
-		color: var(--color-dark-gray);
+		color: var(--funco-color-dark-gray);
 	}
 
 	.foreground\/gray\@md {
-		color: var(--color-gray);
+		color: var(--funco-color-gray);
 	}
 
 	.foreground\/light-gray\@md {
-		color: var(--color-light-gray);
+		color: var(--funco-color-light-gray);
 	}
 
 	.foreground\/white\@md {
-		color: var(--color-white);
+		color: var(--funco-color-white);
 	}
 
 }
 
 @media (--mq-lg) {
 	.foreground\/black\@lg {
-		color: var(--color-black);
+		color: var(--funco-color-black);
 	}
 
 	.foreground\/dark-gray\@lg {
-		color: var(--color-dark-gray);
+		color: var(--funco-color-dark-gray);
 	}
 
 	.foreground\/gray\@lg {
-		color: var(--color-gray);
+		color: var(--funco-color-gray);
 	}
 
 	.foreground\/light-gray\@lg {
-		color: var(--color-light-gray);
+		color: var(--funco-color-light-gray);
 	}
 
 	.foreground\/white\@lg {
-		color: var(--color-white);
+		color: var(--funco-color-white);
 	}
 
 }
 
 @media (--mq-xl) {
 	.foreground\/black\@xl {
-		color: var(--color-black);
+		color: var(--funco-color-black);
 	}
 
 	.foreground\/dark-gray\@xl {
-		color: var(--color-dark-gray);
+		color: var(--funco-color-dark-gray);
 	}
 
 	.foreground\/gray\@xl {
-		color: var(--color-gray);
+		color: var(--funco-color-gray);
 	}
 
 	.foreground\/light-gray\@xl {
-		color: var(--color-light-gray);
+		color: var(--funco-color-light-gray);
 	}
 
 	.foreground\/white\@xl {
-		color: var(--color-white);
+		color: var(--funco-color-white);
 	}
 
 }

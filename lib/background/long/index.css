@@ -1,129 +1,129 @@
 .background\/black {
-	background-color: var(--color-black);
+	background-color: var(--funco-color-black);
 }
 
 .background\/dark-gray {
-	background-color: var(--color-dark-gray);
+	background-color: var(--funco-color-dark-gray);
 }
 
 .background\/gray {
-	background-color: var(--color-gray);
+	background-color: var(--funco-color-gray);
 }
 
 .background\/light-gray {
-	background-color: var(--color-light-gray);
+	background-color: var(--funco-color-light-gray);
 }
 
 .background\/white {
-	background-color: var(--color-white);
+	background-color: var(--funco-color-white);
 }
 
 @media (--mq-xs) {
 	.background\/black\@xs {
-		background-color: var(--color-black);
+		background-color: var(--funco-color-black);
 	}
 
 	.background\/dark-gray\@xs {
-		background-color: var(--color-dark-gray);
+		background-color: var(--funco-color-dark-gray);
 	}
 
 	.background\/gray\@xs {
-		background-color: var(--color-gray);
+		background-color: var(--funco-color-gray);
 	}
 
 	.background\/light-gray\@xs {
-		background-color: var(--color-light-gray);
+		background-color: var(--funco-color-light-gray);
 	}
 
 	.background\/white\@xs {
-		background-color: var(--color-white);
+		background-color: var(--funco-color-white);
 	}
 }
 
 @media (--mq-sm) {
 	.background\/black\@sm {
-		background-color: var(--color-black);
+		background-color: var(--funco-color-black);
 	}
 
 	.background\/dark-gray\@sm {
-		background-color: var(--color-dark-gray);
+		background-color: var(--funco-color-dark-gray);
 	}
 
 	.background\/gray\@sm {
-		background-color: var(--color-gray);
+		background-color: var(--funco-color-gray);
 	}
 
 	.background\/light-gray\@sm {
-		background-color: var(--color-light-gray);
+		background-color: var(--funco-color-light-gray);
 	}
 
 	.background\/white\@sm {
-		background-color: var(--color-white);
+		background-color: var(--funco-color-white);
 	}
 }
 
 @media (--mq-md) {
 	.background\/black\@md {
-		background-color: var(--color-black);
+		background-color: var(--funco-color-black);
 	}
 
 	.background\/dark-gray\@md {
-		background-color: var(--color-dark-gray);
+		background-color: var(--funco-color-dark-gray);
 	}
 
 	.background\/gray\@md {
-		background-color: var(--color-gray);
+		background-color: var(--funco-color-gray);
 	}
 
 	.background\/light-gray\@md {
-		background-color: var(--color-light-gray);
+		background-color: var(--funco-color-light-gray);
 	}
 
 	.background\/white\@md {
-		background-color: var(--color-white);
+		background-color: var(--funco-color-white);
 	}
 }
 
 @media (--mq-lg) {
 	.background\/black\@lg {
-		background-color: var(--color-black);
+		background-color: var(--funco-color-black);
 	}
 
 	.background\/dark-gray\@lg {
-		background-color: var(--color-dark-gray);
+		background-color: var(--funco-color-dark-gray);
 	}
 
 	.background\/gray\@lg {
-		background-color: var(--color-gray);
+		background-color: var(--funco-color-gray);
 	}
 
 	.background\/light-gray\@lg {
-		background-color: var(--color-light-gray);
+		background-color: var(--funco-color-light-gray);
 	}
 
 	.background\/white\@lg {
-		background-color: var(--color-white);
+		background-color: var(--funco-color-white);
 	}
 }
 
 @media (--mq-xl) {
 	.background\/black\@xl {
-		background-color: var(--color-black);
+		background-color: var(--funco-color-black);
 	}
 
 	.background\/dark-gray\@xl {
-		background-color: var(--color-dark-gray);
+		background-color: var(--funco-color-dark-gray);
 	}
 
 	.background\/gray\@xl {
-		background-color: var(--color-gray);
+		background-color: var(--funco-color-gray);
 	}
 
 	.background\/light-gray\@xl {
-		background-color: var(--color-light-gray);
+		background-color: var(--funco-color-light-gray);
 	}
 
 	.background\/white\@xl {
-		background-color: var(--color-white);
+		background-color: var(--funco-color-white);
 	}
 }
