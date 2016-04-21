@@ -1,0 +1,524 @@
+.bg\/black {
+	background-color: #000000;
+}
+
+.bg\/d-gray {
+	background-color: #333333;
+}
+
+.bg\/gray {
+	background-color: #999999;
+}
+
+.bg\/l-gray {
+	background-color: #CCCCCC;
+}
+
+.bg\/white {
+	background-color: #FFFFFF;
+}
+
+@media (min-width: 20em) {
+	.bg\/black\@xs {
+		background-color: #000000;
+	}
+
+	.bg\/d-gray\@xs {
+		background-color: #333333;
+	}
+
+	.bg\/gray\@xs {
+		background-color: #999999;
+	}
+
+	.bg\/l-gray\@xs {
+		background-color: #CCCCCC;
+	}
+
+	.bg\/white\@xs {
+		background-color: #FFFFFF;
+	}
+}
+
+@media (min-width: 30em) {
+	.bg\/black\@sm {
+		background-color: #000000;
+	}
+
+	.bg\/d-gray\@sm {
+		background-color: #333333;
+	}
+
+	.bg\/gray\@sm {
+		background-color: #999999;
+	}
+
+	.bg\/l-gray\@sm {
+		background-color: #CCCCCC;
+	}
+
+	.bg\/white\@sm {
+		background-color: #FFFFFF;
+	}
+}
+
+@media (min-width: 37em) {
+	.bg\/black\@md {
+		background-color: #000000;
+	}
+
+	.bg\/d-gray\@md {
+		background-color: #333333;
+	}
+
+	.bg\/gray\@md {
+		background-color: #999999;
+	}
+
+	.bg\/l-gray\@md {
+		background-color: #CCCCCC;
+	}
+
+	.bg\/white\@md {
+		background-color: #FFFFFF;
+	}
+}
+
+@media (min-width: 43em) {
+	.bg\/black\@lg {
+		background-color: #000000;
+	}
+
+	.bg\/d-gray\@lg {
+		background-color: #333333;
+	}
+
+	.bg\/gray\@lg {
+		background-color: #999999;
+	}
+
+	.bg\/l-gray\@lg {
+		background-color: #CCCCCC;
+	}
+
+	.bg\/white\@lg {
+		background-color: #FFFFFF;
+	}
+}
+
+@media (min-width: 50em) {
+	.bg\/black\@xl {
+		background-color: #000000;
+	}
+
+	.bg\/d-gray\@xl {
+		background-color: #333333;
+	}
+
+	.bg\/gray\@xl {
+		background-color: #999999;
+	}
+
+	.bg\/l-gray\@xl {
+		background-color: #CCCCCC;
+	}
+
+	.bg\/white\@xl {
+		background-color: #FFFFFF;
+	}
+}
+
+.background\/black {
+	background-color: #000000;
+}
+
+.background\/dark-gray {
+	background-color: #333333;
+}
+
+.background\/gray {
+	background-color: #999999;
+}
+
+.background\/light-gray {
+	background-color: #CCCCCC;
+}
+
+.background\/white {
+	background-color: #FFFFFF;
+}
+
+@media (min-width: 20em) {
+	.background\/black\@xs {
+		background-color: #000000;
+	}
+
+	.background\/dark-gray\@xs {
+		background-color: #333333;
+	}
+
+	.background\/gray\@xs {
+		background-color: #999999;
+	}
+
+	.background\/light-gray\@xs {
+		background-color: #CCCCCC;
+	}
+
+	.background\/white\@xs {
+		background-color: #FFFFFF;
+	}
+}
+
+@media (min-width: 30em) {
+	.background\/black\@sm {
+		background-color: #000000;
+	}
+
+	.background\/dark-gray\@sm {
+		background-color: #333333;
+	}
+
+	.background\/gray\@sm {
+		background-color: #999999;
+	}
+
+	.background\/light-gray\@sm {
+		background-color: #CCCCCC;
+	}
+
+	.background\/white\@sm {
+		background-color: #FFFFFF;
+	}
+}
+
+@media (min-width: 37em) {
+	.background\/black\@md {
+		background-color: #000000;
+	}
+
+	.background\/dark-gray\@md {
+		background-color: #333333;
+	}
+
+	.background\/gray\@md {
+		background-color: #999999;
+	}
+
+	.background\/light-gray\@md {
+		background-color: #CCCCCC;
+	}
+
+	.background\/white\@md {
+		background-color: #FFFFFF;
+	}
+}
+
+@media (min-width: 43em) {
+	.background\/black\@lg {
+		background-color: #000000;
+	}
+
+	.background\/dark-gray\@lg {
+		background-color: #333333;
+	}
+
+	.background\/gray\@lg {
+		background-color: #999999;
+	}
+
+	.background\/light-gray\@lg {
+		background-color: #CCCCCC;
+	}
+
+	.background\/white\@lg {
+		background-color: #FFFFFF;
+	}
+}
+
+@media (min-width: 50em) {
+	.background\/black\@xl {
+		background-color: #000000;
+	}
+
+	.background\/dark-gray\@xl {
+		background-color: #333333;
+	}
+
+	.background\/gray\@xl {
+		background-color: #999999;
+	}
+
+	.background\/light-gray\@xl {
+		background-color: #CCCCCC;
+	}
+
+	.background\/white\@xl {
+		background-color: #FFFFFF;
+	}
+}
+
+.fg\/black {
+	color: #000000;
+}
+
+.fg\/d-gray {
+	color: #333333;
+}
+
+.fg\/gray {
+	color: #999999;
+}
+
+.fg\/l-gray {
+	color: #CCCCCC;
+}
+
+.fg\/white {
+	color: #FFFFFF;
+}
+
+@media (min-width: 20em) {
+	.fg\/black\@xs {
+		color: #000000;
+	}
+
+	.fg\/d-gray\@xs {
+		color: #333333;
+	}
+
+	.fg\/gray\@xs {
+		color: #999999;
+	}
+
+	.fg\/l-gray\@xs {
+		color: #CCCCCC;
+	}
+
+	.fg\/white\@xs {
+		color: #FFFFFF;
+	}
+}
+
+@media (min-width: 30em) {
+	.fg\/black\@sm {
+		color: #000000;
+	}
+
+	.fg\/d-gray\@sm {
+		color: #333333;
+	}
+
+	.fg\/gray\@sm {
+		color: #999999;
+	}
+
+	.fg\/l-gray\@sm {
+		color: #CCCCCC;
+	}
+
+	.fg\/white\@sm {
+		color: #FFFFFF;
+	}
+}
+
+@media (min-width: 37em) {
+	.fg\/black\@md {
+		color: #000000;
+	}
+
+	.fg\/d-gray\@md {
+		color: #333333;
+	}
+
+	.fg\/gray\@md {
+		color: #999999;
+	}
+
+	.fg\/l-gray\@md {
+		color: #CCCCCC;
+	}
+
+	.fg\/white\@md {
+		color: #FFFFFF;
+	}
+}
+
+@media (min-width: 43em) {
+	.fg\/black\@lg {
+		color: #000000;
+	}
+
+	.fg\/d-gray\@lg {
+		color: #333333;
+	}
+
+	.fg\/gray\@lg {
+		color: #999999;
+	}
+
+	.fg\/l-gray\@lg {
+		color: #CCCCCC;
+	}
+
+	.fg\/white\@lg {
+		color: #FFFFFF;
+	}
+}
+
+@media (min-width: 50em) {
+	.fg\/black\@xl {
+		color: #000000;
+	}
+
+	.fg\/d-gray\@xl {
+		color: #333333;
+	}
+
+	.fg\/gray\@xl {
+		color: #999999;
+	}
+
+	.fg\/l-gray\@xl {
+		color: #CCCCCC;
+	}
+
+	.fg\/white\@xl {
+		color: #FFFFFF;
+	}
+}
+
+.foreground\/black {
+	color: #000000;
+}
+
+.foreground\/dark-gray {
+	color: #333333;
+}
+
+.foreground\/gray {
+	color: #999999;
+}
+
+.foreground\/light-gray {
+	color: #CCCCCC;
+}
+
+.foreground\/white {
+	color: #FFFFFF;
+}
+
+@media (min-width: 20em) {
+	.foreground\/black\@xs {
+		color: #000000;
+	}
+
+	.foreground\/dark-gray\@xs {
+		color: #333333;
+	}
+
+	.foreground\/gray\@xs {
+		color: #999999;
+	}
+
+	.foreground\/light-gray\@xs {
+		color: #CCCCCC;
+	}
+
+	.foreground\/white\@xs {
+		color: #FFFFFF;
+	}
+
+}
+
+@media (min-width: 30em) {
+	.foreground\/black\@sm {
+		color: #000000;
+	}
+
+	.foreground\/dark-gray\@sm {
+		color: #333333;
+	}
+
+	.foreground\/gray\@sm {
+		color: #999999;
+	}
+
+	.foreground\/light-gray\@sm {
+		color: #CCCCCC;
+	}
+
+	.foreground\/white\@sm {
+		color: #FFFFFF;
+	}
+
+}
+
+@media (min-width: 37em) {
+	.foreground\/black\@md {
+		color: #000000;
+	}
+
+	.foreground\/dark-gray\@md {
+		color: #333333;
+	}
+
+	.foreground\/gray\@md {
+		color: #999999;
+	}
+
+	.foreground\/light-gray\@md {
+		color: #CCCCCC;
+	}
+
+	.foreground\/white\@md {
+		color: #FFFFFF;
+	}
+
+}
+
+@media (min-width: 43em) {
+	.foreground\/black\@lg {
+		color: #000000;
+	}
+
+	.foreground\/dark-gray\@lg {
+		color: #333333;
+	}
+
+	.foreground\/gray\@lg {
+		color: #999999;
+	}
+
+	.foreground\/light-gray\@lg {
+		color: #CCCCCC;
+	}
+
+	.foreground\/white\@lg {
+		color: #FFFFFF;
+	}
+
+}
+
+@media (min-width: 50em) {
+	.foreground\/black\@xl {
+		color: #000000;
+	}
+
+	.foreground\/dark-gray\@xl {
+		color: #333333;
+	}
+
+	.foreground\/gray\@xl {
+		color: #999999;
+	}
+
+	.foreground\/light-gray\@xl {
+		color: #CCCCCC;
+	}
+
+	.foreground\/white\@xl {
+		color: #FFFFFF;
+	}
+
+}
