@@ -2,11 +2,11 @@
 @import "./lib/foreground/index.css";
 
 :root {
-	--color-black: #000000;
-	--color-dark-gray: #333333;
-	--color-gray: #999999;
-	--color-light-gray: #CCCCCC;
-	--color-white: #FFFFFF;
+	--funco-color-black: #000000;
+	--funco-color-dark-gray: #333333;
+	--funco-color-gray: #999999;
+	--funco-color-light-gray: #CCCCCC;
+	--funco-color-white: #FFFFFF;
 }
 
 @custom-media --mq-xs (min-width: 20em);
